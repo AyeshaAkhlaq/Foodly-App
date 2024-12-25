@@ -1,0 +1,98 @@
+{
+    "products": [
+      {
+        "category": "Cakes",
+        "items": [
+          {
+            "name": "Chocolate Fudge",
+            "image": "ChocolateFudge.png",
+            "price": 2000,
+            "description": "Rich and indulgent chocolate fudge cake, layered with velvety ganache for a melt-in-your-mouth experience."
+          },
+          {
+            "name": "Three Milk Cake",
+            "image": "threemilk.png",
+            "price": 3299,
+            "description": "A moist and creamy tres leches cake soaked in a trio of milk, topped with whipped cream."
+          },
+          {
+            "name": "Coffee Cake",
+            "image": "coffee.png",
+            "price": 1699,
+            "description": "Fluffy coffee-flavored cake with a hint of cinnamon, perfect for coffee lovers and dessert enthusiasts alike."
+          },
+          {
+            "name": "Red Velvet Cake",
+            "image": "redvelvet.png",
+            "price": 2399,
+            "description": "A classic red velvet cake with a smooth cream cheese frosting, ideal for celebrations and sweet cravings."
+          }
+        ]
+      },
+      {
+        "category": "Brownies",
+        "items": [
+          {
+            "name": "Fudge Brownie",
+            "image": "brownies.png",
+            "price": 250,
+            "description": "Dense and gooey fudge brownie with a rich chocolate flavor that’s a chocoholic's dream."
+          },
+          {
+            "name": "Caramel Brownie",
+            "image": "caramel.png",
+            "price": 250,
+            "description": "Chocolate brownie swirled with golden caramel for a decadent, sweet, and salty treat."
+          },
+          {
+            "name": "Oreo Brownie",
+            "image": "oreo.png",
+            "price": 250,
+            "description": "Chewy brownie layered with crushed Oreo cookies for a crunchy and chocolaty twist."
+          },
+          {
+            "name": "Espresso Brownie",
+            "image": "espresso.png",
+            "price": 250,
+            "description": "Brownie infused with espresso for a bold coffee kick, perfect for coffee and dessert lovers."
+          },
+          {
+            "name": "Nutella Brownie",
+            "image": "nutellabrownie.png",
+            "price": 250,
+            "description": "Decadent brownie swirled with creamy Nutella, offering a luscious hazelnut-chocolate experience."
+          }
+        ]
+      },
+      {
+        "category": "Sundaes",
+        "items": [
+          {
+            "name": "Galaxy Sundae",
+            "image": "galaxysundae.png",
+            "price": 390,
+            "description": "A celestial treat with chocolate ice cream, brownie chunks, and a drizzle of chocolate sauce."
+          },
+          {
+            "name": "Nutella Sundae",
+            "image": "nutellasundae.png",
+            "price": 390,
+            "description": "Creamy Nutella ice cream topped with crushed hazelnuts and a generous Nutella drizzle."
+          },
+          {
+            "name": "Red Velvet Sundae",
+            "image": "redvelvetsundae.png",
+            "price": 390,
+            "description": "Red velvet cake pieces layered with vanilla ice cream and a dollop of cream cheese frosting."
+          },
+          {
+            "name": "Three Milk Sundae",
+            "image": "threemilksundae.png",
+            "price": 390,
+            "description": "A delicious twist on tres leches, with cake bites, creamy milk ice cream, and caramel drizzle."
+          }
+        ]
+      }
+    ]
+  }
+  
